@@ -1,4 +1,5 @@
 exec*
+exerc02
 *.o
 *.a
 *.so
