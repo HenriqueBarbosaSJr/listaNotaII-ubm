@@ -1,5 +1,6 @@
 exec*
 exerc02
+functions
 *.o
 *.a
 *.so
